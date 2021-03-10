@@ -70,7 +70,7 @@ function Post({ postId, user, username, caption, imageUrl}) {
            type="submit"
            onClick={postComment}
          >
-          posts
+          postss
          </button>
 
       </form>
